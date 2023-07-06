@@ -1,0 +1,3 @@
+,display_id,wrs_path,wrs_row,satellite,cloud_cover,acquisition_date,GID,Sensor
+0,LT05_L1TP_197022_20000107_20200907_02_T2,197,22,5,95,2000-01-07,ID_01,TM
+1,LT05_L1TP_196022_19991231_20200907_02_T1,196,22,5,70,1999-12-31,ID_01,TM

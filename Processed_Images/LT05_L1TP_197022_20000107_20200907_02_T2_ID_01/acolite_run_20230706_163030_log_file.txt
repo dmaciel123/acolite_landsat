@@ -1,0 +1,131 @@
+2023-07-06 16:30:30: Run ID - 20230706_163030
+2023-07-06 16:30:30: Extracting 23 files from Data/downloads//LT05_L1TP_197022_20000107_20200907_02_T2.tar to Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/LT05_L1TP_197022_20000107_20200907_02_T2
+2023-07-06 16:30:31: Extraction completed to Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/LT05_L1TP_197022_20000107_20200907_02_T2
+2023-07-06 16:30:31: Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/LT05_L1TP_197022_20000107_20200907_02_T2
+2023-07-06 16:30:31: Starting conversion of 1 scenes
+2023-07-06 16:30:31: Starting conversion of Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/LT05_L1TP_197022_20000107_20200907_02_T2
+2023-07-06 16:30:31: Importing metadata from Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/LT05_L1TP_197022_20000107_20200907_02_T2
+2023-07-06 16:30:32: Reading per pixel geometry
+2023-07-06 16:30:32: Wrote raa
+2023-07-06 16:30:32: Wrote vza
+2023-07-06 16:30:32: Wrote sza
+2023-07-06 16:30:32: Writing geolocation lon/lat
+2023-07-06 16:30:32: Wrote lon
+2023-07-06 16:30:32: Wrote lat
+2023-07-06 16:30:32: Converting bands
+2023-07-06 16:30:32: Converting bands: Wrote rhot_486 ((747, 445))
+2023-07-06 16:30:32: Converting bands: Wrote rhot_571 ((747, 445))
+2023-07-06 16:30:32: Converting bands: Wrote rhot_660 ((747, 445))
+2023-07-06 16:30:32: Converting bands: Wrote rhot_839 ((747, 445))
+2023-07-06 16:30:32: Converting bands: Wrote rhot_1678 ((747, 445))
+2023-07-06 16:30:32: Converting bands: Wrote bt6
+2023-07-06 16:30:33: Converting bands: Wrote rhot_2217 ((747, 445))
+2023-07-06 16:30:33: Conversion took 1.7 seconds
+2023-07-06 16:30:33: Created Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L1R.nc
+2023-07-06 16:30:34: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L1R_rgb_rhot.png
+2023-07-06 16:30:35: Running acolite for Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L1R.nc
+2023-07-06 16:30:35: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/S20000070000723_TOAST.OZONE
+2023-07-06 16:30:35: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/N200000700_MET_NCEPR2_6h.hdf.bz2
+2023-07-06 16:30:35: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/N200000706_MET_NCEPR2_6h.hdf.bz2
+2023-07-06 16:30:35: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/N200000712_MET_NCEPR2_6h.hdf.bz2
+2023-07-06 16:30:35: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/N200000718_MET_NCEPR2_6h.hdf.bz2
+2023-07-06 16:30:35: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/N200000800_MET_NCEPR2_6h.hdf.bz2
+2023-07-06 16:30:35: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/N200000700_O3_EPTOMS_24h.hdf
+2023-07-06 16:30:35: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/N200000700_O3_N7TOMS_24h.hdf
+2023-07-06 16:30:35: Using DSF atmospheric correction
+2023-07-06 16:30:35: Processing with 40 tiles (8x5 tiles of 100x100 pixels)
+2023-07-06 16:30:35: Writing lon
+2023-07-06 16:30:35: Wrote lon
+2023-07-06 16:30:35: Writing lat
+2023-07-06 16:30:35: Wrote lat
+2023-07-06 16:30:35: Loading LUTs
+2023-07-06 16:30:35: romix+rsky_t
+2023-07-06 16:30:35: True
+2023-07-06 16:30:36: Loading LUTs took 0.7 s
+2023-07-06 16:30:36: 1
+2023-07-06 16:30:36: rhot_486
+2023-07-06 16:30:36: L5_TM/B1 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-07-06 16:30:36: L5_TM/B1 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-07-06 16:30:36: 3
+2023-07-06 16:30:36: rhot_660
+2023-07-06 16:30:36: L5_TM/B3 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-07-06 16:30:36: L5_TM/B3 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-07-06 16:30:36: 4
+2023-07-06 16:30:36: rhot_839
+2023-07-06 16:30:36: L5_TM/B4 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-07-06 16:30:36: L5_TM/B4 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-07-06 16:30:36: Choosing best fitting model: min_drmsd (2 bands)
+2023-07-06 16:30:36: Computing RMSD for model ACOLITE-LUT-202110-MOD1
+2023-07-06 16:30:36: Computing RMSD for model ACOLITE-LUT-202110-MOD2
+2023-07-06 16:30:36: Selecting most common model for processing.
+2023-07-06 16:30:36: ACOLITE-LUT-202110-MOD1: 0.0%
+2023-07-06 16:30:36: ACOLITE-LUT-202110-MOD2: 100.0%: mean aot of subset = 1.36
+2023-07-06 16:30:36: Selected ACOLITE-LUT-202110-MOD2, mean aot = 1.36
+2023-07-06 16:30:36: use_revlut
+2023-07-06 16:30:36: True
+2023-07-06 16:30:36: Wrote rhot_486
+2023-07-06 16:30:36: Computing surface reflectance
+2023-07-06 16:30:36: 1
+2023-07-06 16:30:36: 486
+2023-07-06 16:30:36: 0.959
+2023-07-06 16:30:36: Interpolating tiles
+2023-07-06 16:30:36: Wrote rhos_486
+2023-07-06 16:30:36: L5_TM/B1 took 0.0s (RevLUT)
+2023-07-06 16:30:36: Wrote rhot_571
+2023-07-06 16:30:36: Computing surface reflectance
+2023-07-06 16:30:36: 2
+2023-07-06 16:30:36: 571
+2023-07-06 16:30:36: 0.799
+2023-07-06 16:30:36: Interpolating tiles
+2023-07-06 16:30:36: Wrote rhos_571
+2023-07-06 16:30:36: L5_TM/B2 took 0.0s (RevLUT)
+2023-07-06 16:30:36: Wrote rhot_660
+2023-07-06 16:30:36: Computing surface reflectance
+2023-07-06 16:30:36: 3
+2023-07-06 16:30:36: 660
+2023-07-06 16:30:36: 0.856
+2023-07-06 16:30:36: Interpolating tiles
+2023-07-06 16:30:36: Wrote rhos_660
+2023-07-06 16:30:36: L5_TM/B3 took 0.0s (RevLUT)
+2023-07-06 16:30:36: Wrote rhot_839
+2023-07-06 16:30:36: Computing surface reflectance
+2023-07-06 16:30:36: 4
+2023-07-06 16:30:36: 839
+2023-07-06 16:30:36: 0.878
+2023-07-06 16:30:36: Interpolating tiles
+2023-07-06 16:30:36: Wrote rhos_839
+2023-07-06 16:30:36: L5_TM/B4 took 0.0s (RevLUT)
+2023-07-06 16:30:36: Wrote rhot_1678
+2023-07-06 16:30:36: Computing surface reflectance
+2023-07-06 16:30:36: 5
+2023-07-06 16:30:36: 1678
+2023-07-06 16:30:36: 0.819
+2023-07-06 16:30:36: Interpolating tiles
+2023-07-06 16:30:36: Wrote rhos_1678
+2023-07-06 16:30:36: L5_TM/B5 took 0.0s (RevLUT)
+2023-07-06 16:30:36: Wrote rhot_2217
+2023-07-06 16:30:36: Computing surface reflectance
+2023-07-06 16:30:36: 7
+2023-07-06 16:30:36: 2217
+2023-07-06 16:30:36: 0.773
+2023-07-06 16:30:36: Interpolating tiles
+2023-07-06 16:30:36: Wrote rhos_2217
+2023-07-06 16:30:36: L5_TM/B7 took 0.0s (RevLUT)
+2023-07-06 16:30:36: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L2R.nc
+2023-07-06 16:30:37: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L2R_rgb_rhos.png
+2023-07-06 16:30:37: No suitable band found for cirrus masking.
+2023-07-06 16:30:37: Writing lon
+2023-07-06 16:30:37: Writing lat
+2023-07-06 16:30:37: Writing Rrs_486
+2023-07-06 16:30:37: Writing Rrs_571
+2023-07-06 16:30:37: Writing Rrs_660
+2023-07-06 16:30:37: Writing Rrs_839
+2023-07-06 16:30:37: Writing Rrs_1678
+2023-07-06 16:30:37: Writing Rrs_2217
+2023-07-06 16:30:37: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L2W_Rrs_486.tif
+2023-07-06 16:30:37: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L2W_Rrs_571.tif
+2023-07-06 16:30:37: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L2W_Rrs_660.tif
+2023-07-06 16:30:37: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L2W_Rrs_839.tif
+2023-07-06 16:30:37: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L2W_Rrs_1678.tif
+2023-07-06 16:30:37: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L2W_Rrs_2217.tif
+2023-07-06 16:30:37: Wrote Processed_Images//LT05_L1TP_197022_20000107_20200907_02_T2_ID_01/L5_TM_2000_01_07_10_01_55_197022_L2W_l2_flags.tif
