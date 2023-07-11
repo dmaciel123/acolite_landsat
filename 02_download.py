@@ -23,8 +23,8 @@ image_list = image_list.reset_index(drop=True)
 # Initialize the API
 
 # Your USGS  credentials
-username = "dmaciel123"
-password = "Madaisa1234$"
+username = "XX"
+password = "XXX"
 
 ee = EarthExplorer(username, password)
 
