@@ -17,8 +17,8 @@ import os
 rrs_data = pd.read_csv('Data/matchups.csv')
 
 # Your USGS  credentials
-username = "dmaciel123"
-password = "Madaisa1234$"
+username = "XXX"
+password = "XXX$"
 
 # Initialize a new API instance
 api = API(username, password)
