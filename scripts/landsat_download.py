@@ -1,8 +1,8 @@
 from landsatxplore.api import API
 
 # Your USGS  credentials
-username = "dmaciel123"
-password = "Madaisa1234$"
+username = "X"
+password = "X"
 
 # Initialize a new API instance
 api = API(username, password)
